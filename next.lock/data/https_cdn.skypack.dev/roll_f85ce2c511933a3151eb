@@ -1,0 +1,16 @@
+/*
+ * Skypack CDN - roll@1.3.1
+ *
+ * Learn more:
+ *   📙 Package Documentation: https://www.skypack.dev/view/roll
+ *   📘 Skypack Documentation: https://www.skypack.dev/docs
+ *
+ * Pinned URL: (Optimized for Production)
+ *   ▶️ Normal: https://cdn.skypack.dev/pin/roll@v1.3.1-JVCbQPgA5sBZacrlDsGX/mode=imports/optimized/roll.js
+ *   ⏩ Minified: https://cdn.skypack.dev/pin/roll@v1.3.1-JVCbQPgA5sBZacrlDsGX/mode=imports,min/optimized/roll.js
+ *
+ */
+
+// Browser-Optimized Imports (Don't directly import the URLs below in your application!)
+export * from '/-/roll@v1.3.1-JVCbQPgA5sBZacrlDsGX/dist=es2019,mode=imports/optimized/roll.js';
+export {default} from '/-/roll@v1.3.1-JVCbQPgA5sBZacrlDsGX/dist=es2019,mode=imports/optimized/roll.js';

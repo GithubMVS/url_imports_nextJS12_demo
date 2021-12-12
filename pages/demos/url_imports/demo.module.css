@@ -1,0 +1,89 @@
+.url_importDemo {
+  padding: 0rem 20rem;
+  background-color: var(--backgroundColor);
+  height: 100vh;
+}
+
+.goBack__full {
+  display: flex;
+  align-items: center;
+}
+
+.links_learnMore {
+  text-decoration: none;
+  font-family: var(--font-family-Montreal);
+  font-size: 2rem;
+  font-weight: 700;
+  margin-left: 1.5rem;
+  padding: 5rem 0rem;
+  color: var(--colorPurple);
+}
+
+.url_importDemo_all {
+  font-family: var(--font-family-Montreal);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr auto;
+  grid-column-gap: 2rem;
+  margin-top: 17.5rem;
+}
+
+.url_importDemo_button {
+  width: 100%;
+  background-color: var(--colorPurple);
+  padding: 1.5rem 0rem;
+  text-transform: uppercase;
+  border: none;
+  border-radius: .5rem;
+  color: white;
+  font-weight: 700;
+  font-family: var(--font-family-Inter);
+}
+
+.url_importDemo_explenation {
+  padding: 0rem 0rem 1.5rem 0rem;
+}
+
+.url_importDemo_explenation_title {
+  color: var(--colorBlack);
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.url_importDemo_explenation_text {
+  color: var(--colorGrey);
+  padding-top: 1.5rem;
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.url_importDemo_imageOrNumber_full {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.url_importDemo_full {
+  height: 100%;
+  background-color: white;
+  display: grid;
+  grid-template-rows: 15.5rem auto;
+  padding: 2rem;
+}
+
+.url_importDemo_all_title {
+  grid-row: 1;
+  grid-column: 1/5;
+  padding-bottom: 5rem;
+  font-size: 5rem;
+  color: var(--colorBlack);
+  font-family: var(--font-family-Montreal);
+  font-weight: 700;
+}
+
+.url_importDemo_full_text {
+  font-size: 10rem;
+  font-weight: 700;
+  color: var(--colorPurple);
+}

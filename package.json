@@ -1,0 +1,21 @@
+{
+  "name": "URL_IMPORTS_DEMO",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "framer": "^2.0.0-beta.13",
+    "framer-motion": "^5.4.5",
+    "next": "12.0.7",
+    "react": "^18.0.0-rc.0-next-f2a59df48-20211208",
+    "react-dom": "^18.0.0-rc.0-next-f2a59df48-20211208"
+  },
+  "devDependencies": {
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7"
+  }
+}
